@@ -23,8 +23,8 @@ Scripts Overview:
 
 Data Overview:
 - 'aral_area.csv': CSV file containing water area data based on UNESCO records
-- 'aral_mosaics_raw.zip': Folder with initial images collected via 'main.py'
-- 'aral_mosaics_edited.zip': Folder with images after post-processing in Photoshop
+- '[aral_mosaics_raw](https://drive.google.com/drive/folders/1ahn_LBG-EQzTmfE11JIhwBTP4Y917j8s?usp=drive_link)': Folder with initial images collected via 'main.py'
+- '[aral_mosaics_edited](https://drive.google.com/drive/folders/1phCYtP0CS9inrxAEgmZBY3Jw4Zf6jCST?usp=drive_link)': Folder with images after post-processing in Photoshop
 
 Comparison between raw and edited images for [year]:
 
