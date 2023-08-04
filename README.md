@@ -34,4 +34,10 @@ After obtaining the images, we utilized the Healing Brush tool and color matchin
 
 ![Screenshot 2023-08-02 181413](https://github.com/open-data-kazakhstan/aral-sea-area-visualization/assets/109875855/62129937-bcf6-4eb8-a456-e0ff87d445a8)
 
+### License
+
+This dataset is licensed under the Open Data Commons [Public Domain and Dedication License][pddl].
+
+[pddl]: https://www.opendatacommons.org/licenses/pddl/1-0/
+
 Please feel free to contribute to this research project and help us in visualizing the changes in the Aral Sea over time. Your input is valuable to us!
