@@ -33,13 +33,16 @@ After obtaining the images, we utilized the Healing Brush tool and color matchin
 ### Resulting line graph:
 
 <LineChart
-  title="Does Aral Sea have a future?"
+  title="Does Aral Sea have a future? Chart shows area in 1000 sq km."
   data="https://raw.githubusercontent.com/open-data-kazakhstan/aral-sea-area-visualization/main/data/aral_area.csv"
   xAxis="Year"
   yAxis="Total"
+  
 />
 
-![Screenshot 2023-08-02 181413](https://github.com/open-data-kazakhstan/aral-sea-area-visualization/assets/109875855/62129937-bcf6-4eb8-a456-e0ff87d445a8)
+Raw data preview:
+
+<FlatUiTable url="https://raw.githubusercontent.com/open-data-kazakhstan/aral-sea-area-visualization/main/data/aral_area.csv" />
 
 ### License
 
