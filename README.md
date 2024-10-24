@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/Breadcrumbsaral-sea-area-visualization"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 ## Aral Sea Area Visualization using Satellite Imagery via Google Earth Engine
 
 The main goal of this project is to visualize the changes in the Aral Sea's area from 1986 to 2023 using satellite shots available in Google Earth Engine. We aim to extract good quality images of the Aral Sea during this period and apply light Photoshop techniques to reduce clouds and ensure color consistency across different satellites.
